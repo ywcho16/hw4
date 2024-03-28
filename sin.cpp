@@ -1,6 +1,3 @@
-#include <fstream>
-#include <iostream>
-using namespace std;
 //문제1
 #include <fstream>
 #include <iostream>
