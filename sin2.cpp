@@ -1,4 +1,4 @@
-//¹®Á¦2
+//ë¬¸ì œ2
 #include <fstream>  
 #include <cmath>  
 #include <iostream>
